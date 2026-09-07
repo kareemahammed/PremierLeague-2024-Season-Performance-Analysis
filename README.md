@@ -20,6 +20,3 @@ KPI cards (Top Team, Total Goals Scored, Total Goals Conceded, Average Goals Dif
 
 ## Preview
 ![Dashboard preview](premier-League-dashboard_preview.png)
-
-## Data source
-Premier League 2024 season team statistics (public sports data — team-level points, wins, goals, and rank; no player- or individual-level data).
